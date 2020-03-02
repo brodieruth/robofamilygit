@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robofamily/static/css/main.313b487a.chunk.css",
+    "main.js": "/robofamily/static/js/main.48644c70.chunk.js",
+    "main.js.map": "/robofamily/static/js/main.48644c70.chunk.js.map",
+    "runtime-main.js": "/robofamily/static/js/runtime-main.b7fe77cf.js",
+    "runtime-main.js.map": "/robofamily/static/js/runtime-main.b7fe77cf.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robofamily/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.68dfdf0c.chunk.js": "/robofamily/static/js/2.68dfdf0c.chunk.js",
+    "static/js/2.68dfdf0c.chunk.js.map": "/robofamily/static/js/2.68dfdf0c.chunk.js.map",
+    "index.html": "/robofamily/index.html",
+    "precache-manifest.2493c366919fbeb4d82d67a713329c40.js": "/robofamily/precache-manifest.2493c366919fbeb4d82d67a713329c40.js",
+    "service-worker.js": "/robofamily/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robofamily/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.313b487a.chunk.css.map": "/robofamily/static/css/main.313b487a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7fe77cf.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.68dfdf0c.chunk.js",
+    "static/css/main.313b487a.chunk.css",
+    "static/js/main.48644c70.chunk.js"
+  ]
+}
